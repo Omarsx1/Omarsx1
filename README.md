@@ -39,9 +39,7 @@
             alt="mysql" width="40" height="40" /> <img src="https://www.svgrepo.com/show/448245/oracle.svg"
             alt="oracle" width="30" height="40" />
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40"
-            height="40" />
-        <img src="https://www.svgrepo.com/show/452091/python.svg"
-            alt="python" width="40" height="40" />
+            height="40" />        
         <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass"
             width="40" height="40" />
         <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind" width="40"
